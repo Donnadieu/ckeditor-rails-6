@@ -16,7 +16,7 @@ And it would work with following environments:
 Include `ckeditor_rails` in Gemefile
 
 ```ruby
-gem 'ckeditor_rails'
+gem 'ckeditor_rails_6'
 ```
 
 Then run `bundle install`
