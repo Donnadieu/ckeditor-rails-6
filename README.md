@@ -2,7 +2,7 @@
 
 [CKEditor](http://ckeditor.com/) is a library for WYSIWYG editor to be used inside web pages.
 
-The `ckeditor_rails` gem integrates the `CKEditor` with the Rails asset pipeline.
+The `ckeditor_rails_6` gem integrates the `CKEditor` with the Rails 6 asset pipeline.
 
 And it would work with following environments:
 
